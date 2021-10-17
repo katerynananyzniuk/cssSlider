@@ -147,7 +147,7 @@ input[name='r'] {
     height: 100%;
 }
 .text{
-    font-size: 1rem;
+    font-size: 2rem;
     width: 25%;
     transition: 0.5s ease;
 }
@@ -181,5 +181,9 @@ input[name='r'] {
         content: "__";
         color: #fff;
         font-size: 0.7rem;
+    }
+
+    .text{
+        font-size: 1rem;
     }
 }
