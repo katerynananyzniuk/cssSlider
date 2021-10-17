@@ -151,3 +151,35 @@ input[name='r'] {
     width: 25%;
     transition: 0.5s ease;
 }
+
+@media (max-width: 62.5rem) {
+    .nav {
+        display: flex;
+        justify-content: center;
+    }
+
+    .bar {
+        height: 1.5rem;
+        width: 1.5rem;
+        padding: .4rem;
+    }
+    
+    #r1:checked ~ .description .nav .bar:nth-child(1):after {
+        content: "__";
+        color: #fff;
+        font-size: 0.7rem;
+    }
+    #r2:checked ~ .description .nav .bar:nth-child(2):after {
+        content: "__";
+        color: #fff;
+        font-size: 0.7rem;
+    }#r3:checked ~ .description .nav .bar:nth-child(3):after {
+        content: "__";
+        color: #fff;
+        font-size: 0.7rem;
+    }#r4:checked ~ .description .nav .bar:nth-child(4):after {
+        content: "__";
+        color: #fff;
+        font-size: 0.7rem;
+    }
+}
