@@ -1,1 +1,1 @@
-katerynananyzniuk.github.io/cssMemSlider/cssMemSlider/index.html
+ https://katerynananyzniuk.github.io/cssMemSlider/cssMemSlider/index.html
