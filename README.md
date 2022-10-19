@@ -1,2 +1,2 @@
 # CSS Slider
-https://katerynananyzniuk.github.io/cssMemSlider/cssMemSlider/index.html
+https://katerynananyzniuk.github.io/cssSlider/index.html
